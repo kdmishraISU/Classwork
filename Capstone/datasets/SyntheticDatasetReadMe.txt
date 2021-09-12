@@ -1,0 +1,1 @@
+BloodCell directory is images created and used for the synthetic dataset. 
